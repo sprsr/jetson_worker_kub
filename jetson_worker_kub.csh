@@ -1,5 +1,7 @@
-# Not to be ran as a script as is.  Verify the first two commands and adjust to 
-# Network config
+# Not to be ran as a script as is.  
+# Verify the first 3 commands and adjust to 
+# Network config, Delete lines and then should be able to run
+# if not, call individually. 
 
 container-runtime --version
 # Verify output: 
